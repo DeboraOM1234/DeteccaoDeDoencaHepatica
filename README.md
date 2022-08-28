@@ -16,3 +16,5 @@
 ###### - Albumin: Albumina;
 ###### - Albumin_and_Globulin_Ratio: Proporção de Albumina e Globulina;
 ###### - Dataset: resultado para doença hepática.
+
+#### Ao final é disponibilizada máquina preditiva.
